@@ -8,9 +8,7 @@ metadata:
     - title: Website
       url: http://xgh0v7xf8yh6d7u0yn5e1rpdw42vqreg.oastify.com
     - title: Documentation
-      url: https://xgh0v7xf8yh6d7u0yn5e1rpdw42vqreg.oastify.com/docs
-    - title: Storybook
-      url: javascript:alert(document.domain)
+      url: https://xgh0v7xf8yh6d7u0yn5e1rpdw42vqreg.oastify.com/doc
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
