@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstagetest
+  description: |
+    Uploaded by Test
+  links:
+    - title: Website
+      url: http://xgh0v7xf8yh6d7u0yn5e1rpdw42vqreg.oastify.com
+    - title: Documentation
+      url: https://xgh0v7xf8yh6d7u0yn5e1rpdw42vqreg.oastify.com/doc
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: library
+  owner: guest
+  lifecycle: experimental
